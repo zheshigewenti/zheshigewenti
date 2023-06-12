@@ -1,7 +1,7 @@
 
 
 <table>
-  <tr align="center">
+  <tr align="right">
     <td><b>Statistics</b></td>
     <td><b>Languages</b></td>
   </tr>
