@@ -1,7 +1,7 @@
 ![](assets/Bottom_up.svg)
 
 <!--   my-icons -->
-(https://github.com/zheshigewenti/Bottom_up.svg)
+![](https://github.com/zheshigewenti/Bottom_up.svg)
 <p align="center">
 
 <!--   grid-snake -->
