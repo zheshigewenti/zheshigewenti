@@ -1,4 +1,4 @@
-![](Bottom_up.svg)
+<img decoding="async" src="https://github.com/zheshigewenti/zheshigewenti/blob/master/Bottom_up.svg" width="50%">
 <p align="center">
 
 </p>
