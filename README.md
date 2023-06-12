@@ -5,7 +5,7 @@
 <p align="center">
 
 <!--   grid-snake -->
-<!-- ![](https://github.com/zheshigewenti/github-contribution-grid-snake.svg) -->
+![](https://github.com/zheshigewenti/github-contribution-grid-snake.svg)
 
 
 </p>
