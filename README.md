@@ -1,4 +1,4 @@
-<img decoding="async" src="https://github.com/zheshigewenti/zheshigewenti/blob/master/Bottom_up.svg" height="30%">
+<img decoding="async" src="https://github.com/zheshigewenti/zheshigewenti/blob/master/Bottom_up.svg" height=200>
 <p align="center">
 
 </p>
