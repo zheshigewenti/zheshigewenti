@@ -1,7 +1,7 @@
 
 
 <table>
-  <tr align="right">
+  <tr align="center">
     <td><b>Statistics</b></td>
     <td><b>Languages</b></td>
   </tr>
@@ -9,13 +9,13 @@
     <td><table>
       <tr>
         <td>Repositories</td>
-        <td><a href="https://github.com/Ruixi-rebirth?tab=repositories">
+        <td><a href="https://github.com/zheshigewenti-rebirth?tab=repositories">
           20
         </a></td>
       </tr>
       <tr>
         <td>Gists</td>
-        <td><a href="https://gist.github.com/Ruixi-rebirth">
+        <td><a href="https://gist.github.com/zheshigewenti">
           0
         </a></td>
       </tr>
@@ -45,13 +45,13 @@
       </tr>
       <tr>
         <td>Followers</td>
-        <td><a href="https://github.com/Ruixi-rebirth?tab=followers">
+        <td><a href="https://github.com/zheshigewenti?tab=followers">
           83
         </a></td>
       </tr>
       <tr>
         <td>Following</td>
-        <td><a href="https://github.com/Ruixi-rebirth?tab=following">
+        <td><a href="https://github.com/zheshigewenti?tab=following">
           56
         </a></td>
       </tr>
