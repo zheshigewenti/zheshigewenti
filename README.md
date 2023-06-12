@@ -5,7 +5,7 @@
     <td><b>Statistics</b></td>
     <td><b>Languages</b></td>
   </tr>
-  <tr valign="top">
+  <tr valign="right">
     <td><table>
       <tr>
         <td>Repositories</td>
