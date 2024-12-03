@@ -1,3 +1,3 @@
 
-   welcome to my porfile!
+   welcome to my profile!
 
