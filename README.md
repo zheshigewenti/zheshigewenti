@@ -1,5 +1,4 @@
 
    welcome to my profile!
-          
-           Like simple things!
+   Like simple things!
 
